@@ -1,0 +1,114 @@
+# Blender MTL File: 'jet pack.blend'
+# Material Count: 10
+
+newmtl black
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl computer
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.026484 0.048997 0.026484
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Diana\Desktop\Youtube for real!\Mocking jay\MicroATX_Motherboard_with_AMD_Athlon_Processor_2_Digon3.jpg
+map_Bump C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\MicroATX_Motherboard_with_AMD_Athlon_Processor_2_Digon3.jpg
+map_Ks C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\MicroATX_Motherboard_with_AMD_Athlon_Processor_2_Digon3.jpg
+
+newmtl jets
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\Diana\Desktop\Youtube for real!\Mocking jay\Metal_Rust_Texture_21_by_FantasyStock.jpg
+map_Bump C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\Metal_Rust_Texture_21_by_FantasyStock.jpg
+map_Ks C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\Metal_Rust_Texture_21_by_FantasyStock.jpg
+
+newmtl metal
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Diana\Desktop\Youtube for real!\Mocking jay\metal-texture.jpg
+map_Bump C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\metal-texture.jpg
+map_Ks C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\metal-texture.jpg
+
+newmtl pipes
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.501339 0.380674 0.211767
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Diana\Desktop\Youtube for real!\Mocking jay\Metal_Rust_Texture_21_by_FantasyStock.jpg
+map_Bump C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\Metal_Rust_Texture_21_by_FantasyStock.jpg
+map_Ks C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\Metal_Rust_Texture_21_by_FantasyStock.jpg
+
+newmtl red
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.000000 0.002491
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl strap
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\Diana\Desktop\Youtube for real!\Mocking jay\TubaHarnessStrap.jpg
+map_Bump C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\TubaHarnessStrap.jpg
+
+newmtl strap_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\TubaHarnessStrap.jpg
+map_Kd C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\TubaHarnessStrap.jpg
+
+newmtl tank
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.692913 0.692913 0.692913
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\Metal_Rust_Texture_21_by_FantasyStock.jpg
+map_Kd C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\Metal_Rust_Texture_21_by_FantasyStock.jpg
+
+newmtl tape
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.088551 0.088551 0.088551
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Users\Diana\Desktop\Youtube for real!\Mocking jay\tape.png
+map_Bump C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\tape.png
+map_Ks C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\tape.png
+map_d C:\\Users\\Diana\\Desktop\\Youtube for real!\\Mocking jay\\tape.png
